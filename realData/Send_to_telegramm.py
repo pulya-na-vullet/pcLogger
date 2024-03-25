@@ -4,8 +4,8 @@ import os
 import time
 from datetime import datetime, timedelta
 
-TOKEN = "6270028467:AAFdqmtb-gmpR4J4YQhbBZtfZ4N1SeK5VJw"
-CHAT_ID = "781078907"
+TOKEN = ""
+CHAT_ID = ""
 bot = telegram.Bot(token=TOKEN)
 logSavePath = 'C:/Users/grig-/Desktop/Python_bot'
 
